@@ -1,0 +1,2 @@
+C:/Users/HP/Documents/GitHub/SM2_EXAMEN_PRACTICO/android/app/.cxx/Debug/52631l5g/x86/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/GitHub/SM2_EXAMEN_PRACTICO/android/app/.cxx/Debug/52631l5g/x86/CMakeFiles/rebuild_cache.dir

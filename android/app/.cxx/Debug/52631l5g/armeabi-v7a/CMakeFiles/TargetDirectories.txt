@@ -1,0 +1,2 @@
+C:/Users/HP/Documents/GitHub/SM2_EXAMEN_PRACTICO/android/app/.cxx/Debug/52631l5g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/GitHub/SM2_EXAMEN_PRACTICO/android/app/.cxx/Debug/52631l5g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
