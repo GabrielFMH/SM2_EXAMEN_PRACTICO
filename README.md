@@ -25,6 +25,9 @@ Como usuario, quiero poder visualizar un mapa interactivo de Tacna para poder ub
 # 🔍 Historia 2: Detalles de Zonas de Riesgo
 Como usuario, quiero tocar una zona del mapa con datos de riesgo para ver detalles como el tipo de peligro, el nivel de riesgo y descripción, de forma que pueda tomar decisiones informadas y evitar áreas peligrosas.
 
+0. Primero presionamos el boton de cambio de vista<br>
+![Robo](capturas/botonVista.png)
+
 1. Vista del detalle de la alerta de robo<br>
 ![Robo](capturas/DetalleRoboH2.png)
 
