@@ -3,6 +3,8 @@
 # 🚀 Pasos para la ejecución
 1. Ejecutar flutter pub get (se debe tener instalado el Flutter SDK y un emulador de Android ). 
 2. Ejecutar flutter run (o hacer debug del main.dart).
+# 🚀 Link del repositorio
+https://github.com/GabrielFMH/SM2_EXAMEN_PRACTICO.git
 # 📝 Descripción del Proyecto
 
 Alerta Tacna" es una aplicación móvil diseñada para mejorar la seguridad y la percepción de esta entre los ciudadanos y turistas de Tacna. Utilizará inteligencia artificial y reportes colaborativos de la comunidad para identificar y visualizar en tiempo real zonas de alto riesgo mediante un mapa de calor. La aplicación ofrecerá cálculo de rutas seguras, notificaciones de proximidad a zonas peligrosas y un botón de emergencia. Su objetivo es centralizar la información de seguridad, fomentar la prevención y empoderar a los usuarios para que tomen decisiones informadas sobre su movilidad, contribuyendo a un entorno urbano más seguro.
