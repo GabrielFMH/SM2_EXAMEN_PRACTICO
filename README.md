@@ -12,7 +12,7 @@ Alerta Tacna" es una aplicación móvil diseñada para mejorar la seguridad y la
 # 🗺️ Historia 1: Visualización del Mapa Interactivo
 Como usuario, quiero poder visualizar un mapa interactivo de Tacna para poder ubicarme geolocalmente. Esta funcionalidad me permitirá tener una mejor orientación en la ciudad y me ayudará a moverme de manera más eficiente, ya que podré identificar las calles principales y los puntos de interés cercanos, como servicios y edificios relevantes. El mapa debe ser fácil de interactuar, con opciones de acercar y alejar para una vista más detallada de la ciudad.
 
-1. Vista estandar del mapa
+1. Vista estandar del mapa \n
 ![Mapa](capturas/mapaH1.PNG)
 
 2. Vista del mapa usando el boton de acercar (+)
